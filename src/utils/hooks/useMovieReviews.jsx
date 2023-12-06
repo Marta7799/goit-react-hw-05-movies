@@ -1,4 +1,4 @@
-import * as API from '../Api/apiMovie';
+import * as API from '../api/apiMovie';
 import { useState, useEffect } from 'react';
 
 export const useMovieReviews = movieId => {
