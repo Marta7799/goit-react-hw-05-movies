@@ -1,5 +1,5 @@
 import { useSearchParams } from 'react-router-dom';
-import * as API from '../../utils/api/apiMovie';
+import * as API from '../../utils/Api/apiMovie';
 import { useEffect, useState } from 'react';
 import { TrendingList } from 'components/TrendingList/TrendingList';
 
